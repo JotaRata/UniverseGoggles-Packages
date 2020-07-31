@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1472000846852863114
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Galatea_tex
+  m_Shader: {fileID: -6465566751694194690, guid: 3a6bb42b32ef0064bbc9cd207135da79,
+    type: 3}
+  m_ShaderKeywords: BOOLEAN_BC54EFBA_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_34D7ACEB:
+        m_Texture: {fileID: 2800000, guid: 511bccd157375a44ba911a50f1ff8033, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B6D00543:
+        m_Texture: {fileID: 2800000, guid: 8377701ea17577b40a3a7f5baf698a8b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2DLOD_8357A12B_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 424fc6082cab63c45a756dc5a36da683, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_8636CCC4_Texture_1:
+        m_Texture: {fileID: 2800000, guid: e44e7f0af3761614b872621580ebf0ba, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_29E7EAAE_Out_0:
+        m_Texture: {fileID: 2800000, guid: 9f07c49dcc9c46c44af622cc1f4404ae, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BOOLEAN_BC54EFBA: 1
+    - Boolean_51CE19B: 1
+    - Vector1_10EA821E: 0.065
+    - Vector1_24764ACE: 0.19
+    - Vector1_2E7022C6: 0.15
+    - Vector1_3B0571E5: 0
+    - Vector1_426F4D17: 0.53
+    - Vector1_516837E4: 0.623
+    - Vector1_5D073E5A: 0.68
+    - Vector1_5E7E783D: 0.45
+    - Vector1_618A5F72: 0.27
+    - Vector1_65725B21: 0
+    - Vector1_67F684DD: 0.4
+    - Vector1_6E35D0B4: 1
+    - Vector1_70195A22: 0.8
+    - Vector1_7FD41F5: 91.68
+    - Vector1_87857DF0: 0.125
+    - Vector1_930E275F: 0.2
+    - Vector1_9327DC67: 2.41
+    - Vector1_940EDBF2: 0.15
+    - Vector1_9591F365: 0.26
+    - Vector1_ADE76FBB: 87.35
+    - Vector1_AE6A5968: 8.56
+    - Vector1_B9F2A310: -9.41
+    - Vector1_C96C511C: 600
+    - Vector1_D2547E4B: 41.03
+    - Vector1_D5AB6CFB: 4
+    - Vector1_DD87EC2B: 0.94
+    - Vector1_DE0F0C66: 0.764
+    - Vector1_EA1D09B5: 0.27
+    - Vector1_F432EF14: 0.176
+    - Vector1_F5156D2E: 0
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _BumpScale: 1
+    - _Cull: 2
+    - _Cutoff: 0.5
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 0
+    - _Glossiness: 0
+    - _GlossyReflections: 0
+    - _Metallic: 0
+    - _OcclusionStrength: 1
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _Smoothness: 0.5
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Surface: 0
+    - _WorkflowMode: 1
+    - _ZWrite: 1
+    m_Colors:
+    - Color_350E97BA: {r: 0.32156864, g: 0.302842, b: 0.25082353, a: 0}
+    - Color_78F7DF5C: {r: 0.29799998, g: 0.2662637, b: 0.21753998, a: 0}
+    - Color_81E0D766: {r: 0.135, g: 0.135, b: 0.135, a: 0}
+    - Color_84440E46: {r: 0.17, g: 0.17, b: 0.17, a: 0}
+    - Color_ACBF6E78: {r: 0.08, g: 0.08, b: 0.08, a: 0}
+    - Vector2_3696D151: {r: 11.38, g: 41.5, b: 0, a: 0}
+    - Vector2_79F12DD8: {r: -0.69, g: 1.44, b: 0, a: 0}
+    - Vector2_918952FD: {r: 0, g: -0.42, b: 0, a: 0}
+    - Vector2_F4E2A856: {r: 1, g: 1, b: 0, a: 0}
+    - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
