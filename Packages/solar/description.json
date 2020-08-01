@@ -1,0 +1,10 @@
+{
+	"es" : {
+		"name" : "Sistema Solar",
+		"desc" : "Explora la vastedad de nuestro sistema solar y descubre sus maravillas y mundos en las profundidades del espacio"
+	},
+	"en" : {
+		"name" : "Solar System",
+		"desc" : "Explore the vastness of our solar system and discover its wonders and worlds in the depths of space"
+	}
+}

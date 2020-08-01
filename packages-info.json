@@ -1,0 +1,22 @@
+{
+  "packages": [
+	{
+	"name": "Solar",
+	"id"  : "com.univgoggles.solar",
+    "version": "0.1.0",
+	"size": "48.3 MB",
+	"url": "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/solar/com.univgoggles.solar.ugp",
+	"desc" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/solar/description.json",
+	"img" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/solar/thumbnail.png"
+  },
+  {
+	"name": "Brightest stars",
+	"id"  : "com.univgoggles.bstars",
+    "version": "0.1.0",
+	"size": "11.1 KB",
+	"url": "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/com.univgoggles.bstars.ugp",
+	"desc" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/description.json",
+	"img"  : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/thumbnail.png"
+  }
+	]
+}
