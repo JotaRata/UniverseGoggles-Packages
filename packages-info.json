@@ -1,5 +1,4 @@
-{
-  "packages": [
+[
 	{
 	"name": "Solar",
 	"id"  : "com.univgoggles.solar",
@@ -19,4 +18,3 @@
 	"img"  : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/thumbnail.png"
   }
 	]
-}
