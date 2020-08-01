@@ -1,4 +1,3 @@
-{
   [
 	{
 	"name": "Solar",
@@ -18,5 +17,4 @@
 	"desc" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/description.json",
 	"img"  : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/thumbnail.png"
   }
-	]
-}
+  ]
