@@ -4,7 +4,7 @@
 	"id"  : "com.univgoggles.solar",
     	"version": "1",
 	"game_version": "1.0.0",
-	"size": "48.3 MB",
+	"size": "49.1 MB",
 	"url": "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/solar/com.univgoggles.solar.ugp",
 	"desc" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/solar/description.json",
 	"img" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/solar/thumbnail.png"
@@ -14,7 +14,7 @@
 	"id"  : "com.univgoggles.bstars",
     	"version": "0",
 	"game_version": "1.0.0",
-	"size": "11.1 KB",
+	"size": "2.13 MB",
 	"url": "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/com.univgoggles.bstars.ugp",
 	"desc" : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/description.json",
 	"img"  : "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/thumbnail.png"
