@@ -22,7 +22,7 @@
   {
 	"name":	"Deep space objects",
 	"id":	"com.univgoggles.dso",
-	"version":	"0",
+	"version":	"1",
 	"game_version":	"1.0.0",
 	"size": "0.37 MB",
 	"url":	"https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/dso/com.univgoggles.dso.ugp",
