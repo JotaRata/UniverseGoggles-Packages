@@ -12,7 +12,7 @@
   {
 	"name": "Brightest stars",
 	"id"  : "com.univgoggles.bstars",
-    "version": "0",
+    "version": "1",
 	"game_version": "1.0.0",
 	"size": "2.13 MB",
 	"url": "https://github.com/JotaRata/UniverseGoggles-Packages/raw/packages/Packages/bstars/com.univgoggles.bstars.ugp",
